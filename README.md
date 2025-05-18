@@ -30,7 +30,7 @@ Check out some of the things I've built:
 - 🧮 **[Router 1x3 Digital Logic Design](https://github.com/Hithaishisr/Router-1x3)**  
   Designed using Verilog in Xilinx ISE with Linux automation — a clean example of digital switching logic.
 
-- 🔌 **[IoT-Based Smart Home Automation](https://github.com/Hithaishisr/IoT-Smart-Home-Automation)**  
+- 🔌 **[IoT-Based Smart Home Automation System](https://github.com/Hithaishisr/IoT-Smart-Home-Automation)**  
   ESP32-powered automation system featuring touch control, Bluetooth app, solenoid smart lock, and motor control.
 
 ---
